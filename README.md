@@ -7,6 +7,8 @@ VWA3B mas bien conocido como SCAR22---rio arriba
 INPP4A o TVAS1
 53000 pb
 tiene 90 variantes....faltan las posiciones
+falta si es sinonimo o no sinonimo
+si tienes, hay 194 ortologos tales como: Mus musculus, Mus caroli, Mus pahari, Rattus norvegicus
 
 
 
