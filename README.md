@@ -21,7 +21,7 @@ tiene 90 variantes....posición
 
 [https://www.ncbi.nlm.nih.gov/clinvar/variation/337652/] no sinonima
 si tienes, hay 194 ortologos tales como: Mus musculus, Mus caroli, Mus pahari, Rattus norvegicus
-hay q ver el tema de los paralogos.
+aparecen 25 paralogos y psudogenes ni idea
 
 dillinger.io----weaita tipo ,macdown
 
@@ -41,6 +41,10 @@ UniProt: Q16281
 
 
 ![imagen1](http://www.kegg.jp/tmp/mark_pathway150221030983770/hsa04024.png)
+
+participa aparte de la ruta olfactory transduction, está presente en la cAMP signaling pathway
+ las cajas verdes significan: reen boxes are hyperlinked to GENES entries by converting K numbers (KO identifiers) to gene identifiers in the reference pathway, indicating the presence of genes in the genome and also the completeness of the pathway.
+
 
 
 
