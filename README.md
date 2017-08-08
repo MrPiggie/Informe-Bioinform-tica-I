@@ -25,6 +25,23 @@ hay q ver el tema de los paralogos.
 
 dillinger.io----weaita tipo ,macdown
 
+#**Parte II** 
+si encontré nombres alternativos para el gen. CNG3; ACHM2; CCNC1; CCNCa; CNCG3; CCNCalpha
+participa en las rutas bmetabolicas de cAMP signaling pathway y el 	
+Olfactory transduction.
+el entry number de mi gen es el 1261.
+NCBI-GeneID: 1261
+NCBI-ProteinID: NP_001289
+OMIM: 600053
+HGNC: 2150
+Ensembl: ENSG00000144191
+Vega: OTTHUMG00000130561
+Pharos: Q16281(Tbio)
+UniProt: Q16281
+
+
+
+
 
 
 
