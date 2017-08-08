@@ -40,7 +40,7 @@ Pharos: Q16281(Tbio)
 UniProt: Q16281
 
 
-
+![imagen1](http://www.kegg.jp/tmp/mark_pathway150221030983770/hsa04024.png)
 
 
 
