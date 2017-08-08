@@ -48,7 +48,7 @@ participa aparte de la ruta olfactory transduction, está presente en la cAMP si
 
 
 
-
+me falta la mitad
 
 
 
