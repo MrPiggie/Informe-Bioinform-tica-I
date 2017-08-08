@@ -21,7 +21,7 @@ tiene 90 variantes....posición
 
 [https://www.ncbi.nlm.nih.gov/clinvar/variation/337652/] no sinonima
 si tienes, hay 194 ortologos tales como: Mus musculus, Mus caroli, Mus pahari, Rattus norvegicus
-aparecen 25 paralogos y psudogenes ni idea
+aparecen 25 paralogos y psudogenes no se han reportado psudogenes.
 
 dillinger.io----weaita tipo ,macdown
 
