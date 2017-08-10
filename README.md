@@ -40,7 +40,7 @@ Pharos: Q16281(Tbio)
 UniProt: Q16281
 
 
-![imagen1](http://www.kegg.jp/tmp/mark_pathway150221030983770/hsa04024.png)
+![imagen1](http://www.kegg.jp/tmp/mark_pathway150232875587417/hsa04024.png)
 
 participa aparte de la ruta olfactory transduction, está presente en la cAMP signaling pathway
  las cajas verdes significan: reen boxes are hyperlinked to GENES entries by converting K numbers (KO identifiers) to gene identifiers in the reference pathway, indicating the presence of genes in the genome and also the completeness of the pathway.
