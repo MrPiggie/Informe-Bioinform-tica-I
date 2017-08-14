@@ -42,79 +42,86 @@ __Acromatopsia:__ La Achromatopsia es una enfermedad retiniana hereditaria autos
 	
  **¿Las sustituciones corresponden a cambios sinónimos o no sinónimos?**
  
- Tiene de ambos tipos, tanto sinónimas como no sinónimas.
+ 	Tiene de ambos tipos, tanto sinónimas como no sinónimas.
 ![sinónima](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/sinonima.png?raw=true)
 
 ![no sinónima](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/no%20sinonima.png?raw=true)
 
 **¿Existen ortólogos de tu gen en otras especies? ¿Cuántos?**
 
-si tienes, hay 194 ortologos tales como: Mus musculus, Mus caroli, Mus pahari, Rattus norvegicus
+	si tienes, hay 194 ortologos tales como: Mus musculus, Mus caroli, Mus pahari, Rattus norvegicus
 
 **¿Y paralógos? ¿Hay pseudogenes? ¿Cuántos?** 
  
- aparecen 25 paralogos y psudogenes no se han reportado psudogenes.
-
+	 aparecen 25 paralogos y psudogenes no se han reportado psudogenes.
+	
 
 # **Parte II** 
 
 **Anteriormente encontraste nombres alternativos de tu gen ¿Existen otros reportados por Kegg? ¿Cuáles?**
  
-Si encontré nombres alternativos para el gen. CNG3; ACHM2; CCNC1; CCNCa; CNCG3; CCNCalpha
+	Si encontré nombres alternativos para el gen. CNG3; ACHM2; CCNC1; CCNCa; CNCG3; CCNCalpha
 
 **¿En qué rutas metabólicas participa la proteina codificada por tu gen?**  
 
-participa en las rutas bmetabolicas de cAMP signaling pathway y el Olfactory transduction.
+	participa en las rutas bmetabolicas de cAMP signaling pathway y el Olfactory transduction.
 
 **¿Cuál es el número de identificación de tu gen (entry number)?**  
 
-el entry number de mi gen es el 1261.
+	el entry number de mi gen es el 1261.
 
 **En general, cada unidad dentro de una base de datos tiene un número o código de identificación único. De esta forma, uno puede obtener exactamente lo que quiere dentro de un oceano de otras cosas ¿En qué otras bases de datos está tu gen presente y cuáles son sus números de acceso?**  
 
-NCBI-GeneID: 1261
-NCBI-ProteinID: NP_001289
-OMIM: 600053
-HGNC: 2150
-Ensembl: ENSG00000144191
-Vega: OTTHUMG00000130561
-Pharos: Q16281(Tbio)
-UniProt: Q16281
+	NCBI-GeneID: 1261
+
+	NCBI-ProteinID: NP_001289
+
+	OMIM: 600053
+
+	HGNC: 2150
+
+	Ensembl: ENSG00000144191
+
+	Vega: OTTHUMG00000130561
+
+	Pharos: Q16281(Tbio)
+
+	UniProt: Q16281
 
 
 ![imagen1](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/Imagen%201.png)
 
-¿En qué otras rutas metabólicas está involucrado tu gen?
+**¿En qué otras rutas metabólicas está involucrado tu gen?**
 
-participa aparte de la ruta olfactory transduction, está presente en la cAMP signaling pathway
+	participa aparte de la ruta olfactory transduction, está presente en la cAMP signaling pathway
 
 **¿Qué significan los cuadros verdes en el diagrama?**
 
-las cajas verdes significan: reen boxes are hyperlinked to GENES entries by converting K numbers (KO identifiers) to gene identifiers in the reference pathway, indicating the presence of genes in the genome and also the completeness of the pathway.
+	las cajas verdes significan: reen boxes are hyperlinked to GENES entries by converting K numbers (KO identifiers) to gene 	identifiers in the reference pathway, indicating the presence of genes in the genome and also the completeness of the pathway.
 
 **¿Con qué rutas se cruza la ruta metabólica?**
 
-choca con la ruta olfactory transduction.
+	choca con la ruta olfactory transduction.
 
 **¿Cuántos "dominios" forman la anotación GO?**
 
-la conforman 3 dominios: Cellular Component, the parts of a cell or its extracellular environment; Molecular Function, the elemental activities of a gene product at the molecular level, such as binding or catalysis; and Biological Process, operations or sets of molecular events with a defined beginning and end, pertinent to the functioning of integrated living units: cells, tissues, organs, and organisms.
+	la conforman 3 dominios: Cellular Component, the parts of a cell or its extracellular environment; Molecular Function, the elemental activities of a gene product at the molecular level, such as binding or catalysis; and Biological Process, operations or sets of molecular events with a defined beginning and end, pertinent to the functioning of integrated living units: cells, tissues, organs, and organisms.
 
 **Ve a "Tools" --> "AmiGO 2" y escribe en la casilla de búsqueda GO:0006096**  
 
 **¿A qué corresponde este término y qué información te entrega la página?**
 
-Entrega información sobre glycolytic process, me entrega informacion detallada sonre este proceso, todas las anotaciones directas e indirectas del proceso glycolitico y todos los genes y productos genicos asociados a este proceso.
+	Entrega información sobre glycolytic process, me entrega informacion detallada sonre este proceso, todas las anotaciones directas e indirectas del proceso glycolitico y todos los genes y productos genicos asociados a este proceso.
 
 **Haz clic en "Graph Views" y examina el gráfico. Anota 10 sub-categorías GO a la cual GO:0006096 pertenece**
 
-Procesos metabolicos del ATP, procesos metabolicos del piruvato, fosforilación de nucleotidos, catabolismo de organismos unicelulares, rocesos metabolicos de purinas, pirimidinas, nucleosidos trifosfato, coenzima de oxidorreduccion, fosforilación, generación de precursores de metabolitos y energía.
+	Procesos metabolicos del ATP, procesos metabolicos del piruvato, fosforilación de nucleotidos, catabolismo de organismos unicelulares, rocesos metabolicos de purinas, pirimidinas, nucleosidos trifosfato, coenzima de oxidorreduccion, fosforilación, generación de precursores de metabolitos y energía.
 
 **Parte III:**
 
 **¿Cuántos items fueron encontrados? ¿cuántos en animales?**
 
-fueron encontrado 86453 archivos, animales 12034.
+	fueron encontrado 86453 archivos, animales 12034.
 
 **Probablemente tus resultados fueron una mezcla de fragmentos de genes, regiones codificantes parciales, genes completos, etc. Filtra tus datos por mRNA, animales, RefSeq.**
 
@@ -122,83 +129,83 @@ fueron encontrado 86453 archivos, animales 12034.
 
 **¿Cuál es la longitud del gen?** 
 
-1288 bp longitud gallina.
+	1288 bp longitud gallina.
 
 **¿Cuál es la referencia bibliográfica más reciente?** 
 
-09-JUL-2017, 
+	09-JUL-2017, 
 
 **¿Cuál es el número de acceso?**
 
-NM_204305,  
+	NM_204305,  
 
 *Descarga la secuencia en formato fasta y agrégala a tu informe.*
 
-(#NEXUS
-[TITLE: Written by EMBOSS 14/08/17]
+	(#NEXUS
+	[TITLE: Written by EMBOSS 14/08/17]
 
-begin data;
-dimensions ntax=1 nchar=1288;
-format interleave datatype=DNA missing=N gap=-;
+	begin data;
+	dimensions ntax=1 nchar=1288;
+	format interleave datatype=DNA missing=N gap=-;
 
-matrix
-NM_204305.1          ACCTTCTCACTGCGCGCTGGGGCCGTTGACGTGCAGCAGGAACACTATAA
+	matrix
+	NM_204305.1          ACCTTCTCACTGCGCGCTGGGGCCGTTGACGTGCAGCAGGAACACTATAA
 
-NM_204305.1          AGGCGAGATGGTGAAAGTCGGAGTCAACGGATTTGGCCGTATTGGCCGCC
+	NM_204305.1          AGGCGAGATGGTGAAAGTCGGAGTCAACGGATTTGGCCGTATTGGCCGCC
 
-NM_204305.1          TGGTCACCAGGGCTGCCGTCCTCTCTGGCAAAGTCCAAGTGGTGGCCATC
+	NM_204305.1          TGGTCACCAGGGCTGCCGTCCTCTCTGGCAAAGTCCAAGTGGTGGCCATC
 
-NM_204305.1          AATGATCCCTTCATCGATCTGAACTACATGGTTTACATGTTCAAATATGA
+	NM_204305.1          AATGATCCCTTCATCGATCTGAACTACATGGTTTACATGTTCAAATATGA
 
-NM_204305.1          TTCTACACACGGACACTTCAAGGGCACTGTCAAGGCTGAGAACGGGAAAC
+	NM_204305.1          TTCTACACACGGACACTTCAAGGGCACTGTCAAGGCTGAGAACGGGAAAC
 
-NM_204305.1          TTGTGATCAATGGGCACGCCATCACTATCTTCCAGGAGCGTGACCCCAGC
+	NM_204305.1          TTGTGATCAATGGGCACGCCATCACTATCTTCCAGGAGCGTGACCCCAGC
 
-NM_204305.1          AACATCAAATGGGCAGATGCAGGTGCTGAGTATGTTGTGGAGTCCACTGG
+	NM_204305.1          AACATCAAATGGGCAGATGCAGGTGCTGAGTATGTTGTGGAGTCCACTGG
 
-NM_204305.1          TGTCTTCACCACCATGGAGAAGGCTGGGGCTCATCTGAAGGGTGGTGCTA
+	NM_204305.1          TGTCTTCACCACCATGGAGAAGGCTGGGGCTCATCTGAAGGGTGGTGCTA
 
-NM_204305.1          AGCGTGTTATCATCTCAGCTCCCTCAGCTGATGCCCCCATGTTTGTGATG
+	NM_204305.1          AGCGTGTTATCATCTCAGCTCCCTCAGCTGATGCCCCCATGTTTGTGATG
 
-NM_204305.1          GGTGTCAACCATGAGAAATATGACAAGTCCCTGAAAATTGTCAGCAATGC
+	NM_204305.1          GGTGTCAACCATGAGAAATATGACAAGTCCCTGAAAATTGTCAGCAATGC
 
-NM_204305.1          ATCGTGCACCACCAACTGCCTGGCACCCTTGGCCAAGGTCATCCATGACA
+	NM_204305.1          ATCGTGCACCACCAACTGCCTGGCACCCTTGGCCAAGGTCATCCATGACA
 
-NM_204305.1          ACTTTGGCATTGTGGAGGGTCTTATGACCACTGTCCATGCCATCACAGCC
+	NM_204305.1          ACTTTGGCATTGTGGAGGGTCTTATGACCACTGTCCATGCCATCACAGCC
 
-NM_204305.1          ACACAGAAGACGGTGGATGGCCCCTCTGGGAAGCTGTGGAGAGATGGCAG
+	NM_204305.1          ACACAGAAGACGGTGGATGGCCCCTCTGGGAAGCTGTGGAGAGATGGCAG
 
-NM_204305.1          AGGTGCTGCCCAGAACATCATCCCAGCGTCCACTGGGGCTGCTAAGGCTG
+	NM_204305.1          AGGTGCTGCCCAGAACATCATCCCAGCGTCCACTGGGGCTGCTAAGGCTG
 
-NM_204305.1          TGGGGAAAGTCATCCCTGAGCTGAATGGGAAGCTTACTGGAATGGCTTTC
+	NM_204305.1          TGGGGAAAGTCATCCCTGAGCTGAATGGGAAGCTTACTGGAATGGCTTTC
 
-NM_204305.1          CGTGTGCCAACCCCCAATGTCTCTGTTGTTGACCTGACCTGCCGTCTGGA
+	NM_204305.1          CGTGTGCCAACCCCCAATGTCTCTGTTGTTGACCTGACCTGCCGTCTGGA
 
-NM_204305.1          GAAACCAGCCAAGTATGATGATATCAAGAGGGTAGTGAAGGCTGCTGCTG
+	NM_204305.1          GAAACCAGCCAAGTATGATGATATCAAGAGGGTAGTGAAGGCTGCTGCTG
 
-NM_204305.1          ATGGGCCCCTGAAGGGCATCCTAGGATACACAGAGGACCAGGTTGTCTCC
+	NM_204305.1          ATGGGCCCCTGAAGGGCATCCTAGGATACACAGAGGACCAGGTTGTCTCC
 
-NM_204305.1          TGTGACTTCAATGGTGACAGCCATTCCTCCACCTTTGATGCGGGTGCTGG
+	NM_204305.1          TGTGACTTCAATGGTGACAGCCATTCCTCCACCTTTGATGCGGGTGCTGG
 
-NM_204305.1          CATTGCACTGAATGACCATTTCGTCAAGCTTGTTTCCTGGTATGACAATG
+	NM_204305.1          CATTGCACTGAATGACCATTTCGTCAAGCTTGTTTCCTGGTATGACAATG
 
-NM_204305.1          AGTTTGGATACAGCAACCGTGTTGTGGACTTGATGGTCCACATGGCATCC
+	NM_204305.1          AGTTTGGATACAGCAACCGTGTTGTGGACTTGATGGTCCACATGGCATCC
 
-NM_204305.1          AAGGAGTGAGCCAGGCACACAGCCCCCCTGCTGCCTAGGGAAGCAGGACC
+	NM_204305.1          AAGGAGTGAGCCAGGCACACAGCCCCCCTGCTGCCTAGGGAAGCAGGACC
 
-NM_204305.1          CTTTGTTGGAGCCCCTGCTCTTCACCACCGCTCAGTTCTGCATCCTGCAG
+	NM_204305.1          CTTTGTTGGAGCCCCTGCTCTTCACCACCGCTCAGTTCTGCATCCTGCAG
+	
+	NM_204305.1          TGAGAGGCCAGTTCTGTTCCCTTCTGTCTCCCCCACTCCTCCAATTTCTT
 
-NM_204305.1          TGAGAGGCCAGTTCTGTTCCCTTCTGTCTCCCCCACTCCTCCAATTTCTT
+	NM_204305.1          CCTCCACCTGGGGGAGGTGGGAGAGGCTGATAGAAACTGATCTGTTTGTG
 
-NM_204305.1          CCTCCACCTGGGGGAGGTGGGAGAGGCTGATAGAAACTGATCTGTTTGTG
+	NM_204305.1          TACCACCTTACATCAATAAAAGTGTTCACCATCTGAAG
+	;
 
-NM_204305.1          TACCACCTTACATCAATAAAAGTGTTCACCATCTGAAG
-;
-
-end;
-begin assumptions;
-options deftype=unord;
-end;)
+	end;
+	begin assumptions;
+	options deftype=unord;
+	end;)
 
 **Parte IV**
 
