@@ -6,15 +6,15 @@ __Acromatopsia:__ La Achromatopsia es una enfermedad retiniana hereditaria autos
  
  **¿Tiene nombres alternativos el gen?**
  
- CNG3; ACHM2; CCNC1; CCNCa; CNCG3; CCNCalpha __(2)__.
+ 	CNG3; ACHM2; CCNC1; CCNCa; CNCG3; CCNCalpha __(2)__.
  
  **¿En qué cromosoma está? ¿Cuántos exones tiene? ¿Cuántas isoformas de transcritos?** 
  
- Ubicado en el cromosoma número 2. La cantidad de exones presentes son 9. Se han descrito 2 isoformas de transcritos.
+ 	Ubicado en el cromosoma número 2. La cantidad de exones presentes son 9. Se han descrito 2 isoformas de transcritos.
 
 **¿Qué tipo de proteina es codificada por este gen? ¿Cuál es su número EC?** 
 
-cyclic nucleotide-gated cation channel alpha-3 family. No tiene número EC, porqué la proteína que codifica no es una enzima.
+	cyclic nucleotide-gated cation channel alpha-3 family. No tiene número EC, porqué la proteína que codifica no es una enzima.
 
 **¿Qué genes están inmediatamente río arriba/abajo?**
 
@@ -26,17 +26,18 @@ cyclic nucleotide-gated cation channel alpha-3 family. No tiene número EC, porq
 
 **¿Cuántas variantes de tu gen hay descritas y en qué posiciones?** 
 
-Tiene 90 variantes.
+	Tiene 90 variantes.
+	
 **Posiciones de ciertas variantes:**
 
-                               1:Chr2: 98396796 (on Assembly GRCh38)[https://www.ncbi.nlm.nih.gov/clinvar/variation/337663/]
-                                 Chr2: 99013259 (on Assembly GRCh37)
+   	Chr2: 98396796 (on Assembly GRCh38)![](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/1.png?raw=true)
+        Chr2: 99013259 (on Assembly GRCh37)
                                
-                               2:Chr2: 98377671 (on Assembly GRCh38)[https://www.ncbi.nlm.nih.gov/clinvar/variation/257961/]
-                                 Chr2: 98994134 (on Assembly GRCh37)
+        Chr2: 98377671 (on Assembly GRCh38)[https://www.ncbi.nlm.nih.gov/clinvar/variation/257961/]
+        Chr2: 98994134 (on Assembly GRCh37)
                                  
-                               3:Chr2: 98370042 (on Assembly GRCh38)[https://www.ncbi.nlm.nih.gov/clinvar/variation/337652/]
-                                 Chr2: 98986505 (on Assembly GRCh37)
+        Chr2: 98370042 (on Assembly GRCh38)[https://www.ncbi.nlm.nih.gov/clinvar/variation/337652/]
+        Chr2: 98986505 (on Assembly GRCh37)
                                  
 	
  **¿Las sustituciones corresponden a cambios sinónimos o no sinónimos?**
