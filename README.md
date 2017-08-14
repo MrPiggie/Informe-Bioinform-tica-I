@@ -67,7 +67,7 @@ Pharos: Q16281(Tbio)
 UniProt: Q16281
 
 
-![imagen1](http://www.kegg.jp/tmp/mark_pathway150232875587417/hsa04024.png)
+![imagen1](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/Imagen%201.png)
 
 ¿En qué otras rutas metabólicas está involucrado tu gen?
 
