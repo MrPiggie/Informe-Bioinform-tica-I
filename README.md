@@ -7,16 +7,19 @@ __Acromatopsia:__ La Achromatopsia es una enfermedad retiniana hereditaria autos
  ¿Tiene nombres alternativos el gen? 
  
  CNG3; ACHM2; CCNC1; CCNCa; CNCG3; CCNCalpha __(2)__.
+ 
  ¿En qué cromosoma está? ¿Cuántos exones tiene? ¿Cuántas isoformas de transcritos? 
  
  Ubicado en el cromosoma número 2. La cantidad de exones presentes son 9. Se han descrito 2 isoformas de transcritos.
+
 ¿Qué tipo de proteina es codificada por este gen? ¿Cuál es su número EC? 
 
 cyclic nucleotide-gated cation channel alpha-3 family. No tiene número EC, porqué la proteína que codifica no es una enzima.
+
 ¿Qué genes están inmediatamente río arriba/abajo?
 
 VWA3B/SCAR22 se encuentra río arriba, y INPP4A/TVAS1 río abajo.
-¿Cuál es la longitud de tu gen?
+	¿Cuál es la longitud de tu gen?
 
 53000 pb
 ¿Cuántas variantes de tu gen hay descritas y en qué posiciones? 
