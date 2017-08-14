@@ -241,6 +241,7 @@ __Acromatopsia:__ La Achromatopsia es una enfermedad retiniana hereditaria autos
  
  	Cambian en la cantidad de resultados encontrados. Soil OR Human pathogens tiene un mayor número de resultados encontrados que al realizar la búsqueda con Soil AND Human pathogens.
 	
+	
 	# **Bibliografía:**
 		-(1) Genersatztherapie bei genetisch bedingter Zapfenblindheit, R. Mühlfriedel, N. Tanimoto, M. W. Seeliger. Georg Thieme Verlag KG Stuttgart · New York .
 		-(2) Progress on study of achromatopsia and targeted gene therapy, Dai XF ,  Pang JJ. Zhonghua yan ke za Zhi Chinese Journal of Ophthalmology.
