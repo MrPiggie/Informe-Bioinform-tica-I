@@ -51,7 +51,10 @@ la conforman 3 dominios: Cellular Component, the parts of a cell or its extracel
 
 entrega información sobre glycolytic process, me entrega informacion detallada sonre este proceso, todas las anotaciones directas e indirectas del proceso glycolitico y todos los genes y productos genicos asociados a este proceso.
 
+Procesos metabolicos del ATP, procesos metabolicos del piruvato, fosforilación de nucleotidos, catabolismo de organismos unicelulares, rocesos metabolicos de purinas, pirimidinas, nucleosidos trifosfato, coenzima de oxidorreduccion, fosforilación, generación de precursores de metabolitos y energía.
 
+fueron encontrado 86453 archivos, animales 12034.
+ 1288 bplongitud pollo,  09-JUL-2017,  NM_204305,  
 
 
 
