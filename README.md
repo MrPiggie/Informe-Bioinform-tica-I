@@ -64,14 +64,25 @@ UniProt: Q16281
 
 ![imagen1](http://www.kegg.jp/tmp/mark_pathway150232875587417/hsa04024.png)
 
+¿En qué otras rutas metabólicas está involucrado tu gen?
+
 participa aparte de la ruta olfactory transduction, está presente en la cAMP signaling pathway
- las cajas verdes significan: reen boxes are hyperlinked to GENES entries by converting K numbers (KO identifiers) to gene identifiers in the reference pathway, indicating the presence of genes in the genome and also the completeness of the pathway.
 
+¿Qué significan los cuadros verdes en el diagrama?
+las cajas verdes significan: reen boxes are hyperlinked to GENES entries by converting K numbers (KO identifiers) to gene identifiers in the reference pathway, indicating the presence of genes in the genome and also the completeness of the pathway.
 
+¿Con qué rutas se cruza la ruta metabólica?
+choca con la ruta olfactory transduction.
 
+¿Cuántos "dominios" forman la anotación GO?
 la conforman 3 dominios: Cellular Component, the parts of a cell or its extracellular environment; Molecular Function, the elemental activities of a gene product at the molecular level, such as binding or catalysis; and Biological Process, operations or sets of molecular events with a defined beginning and end, pertinent to the functioning of integrated living units: cells, tissues, organs, and organisms.
 
+Ve a "Tools" --> "AmiGO 2" y escribe en la casilla de búsqueda GO:0006096  
+¿A qué corresponde este término y qué información te entrega la página?
+
 entrega información sobre glycolytic process, me entrega informacion detallada sonre este proceso, todas las anotaciones directas e indirectas del proceso glycolitico y todos los genes y productos genicos asociados a este proceso.
+
+Haz clic en "Graph Views" y examina el gráfico. Anota 10 sub-categorías GO a la cual GO:0006096 pertenece
 
 Procesos metabolicos del ATP, procesos metabolicos del piruvato, fosforilación de nucleotidos, catabolismo de organismos unicelulares, rocesos metabolicos de purinas, pirimidinas, nucleosidos trifosfato, coenzima de oxidorreduccion, fosforilación, generación de precursores de metabolitos y energía.
 
