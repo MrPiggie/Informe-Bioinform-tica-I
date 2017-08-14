@@ -31,17 +31,22 @@ __Acromatopsia:__ La Achromatopsia es una enfermedad retiniana hereditaria autos
 **Posiciones de ciertas variantes:**
 
 ![posicion](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/1.png?raw=true)
+**Imagen I:** Posición variante I.
 
 ![posicion 2](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/2.png?raw=true)
+**Imagen II:** Posición variante II.
 
 ![posición 3](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/3.png?raw=true)
+**Imagen III:** Posición variante III.
 
 **¿Las sustituciones corresponden a cambios sinónimos o no sinónimos?**
  
- 	Tiene de ambos tipos, tanto sinónimas(1era imagen) como no sinónimas(2da imagen).
+ 	Tiene de ambos tipos, tanto sinónimas como no sinónimas.
 ![sinónima](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/sinonima.png?raw=true)
+**Imagen IV:** Mutación sinónima.
 
 ![no sinónima](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/no%20sinonima.png?raw=true)
+**Imagen V:** Mutación no sinónima.
 
 **¿Existen ortólogos de tu gen en otras especies? ¿Cuántos?**
 
@@ -86,6 +91,7 @@ __Acromatopsia:__ La Achromatopsia es una enfermedad retiniana hereditaria autos
 
 
 ![imagen1](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/Imagen%201.png)
+**Imagen VI:** cAMP signaling pathway.
 
 **¿En qué otras rutas metabólicas está involucrado tu gen?**
 
@@ -206,10 +212,10 @@ __Acromatopsia:__ La Achromatopsia es una enfermedad retiniana hereditaria autos
 # **Parte IV**
 
 ![alerta pubmed ncbi](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/alerta%201.png?raw=true)
-Alerta ncbi Pubmed.
+**Imagen VII:**Alerta ncbi Pubmed.
 
 ![subscripción nature](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/nature.png?raw=true)
-Subscripción revista Nature.
+**Imagen VIII:**Subscripción revista Nature.
 
 **¿Son los resultados idénticos o no?** _(''Achromatopsia'')_
 
