@@ -221,7 +221,7 @@ __Acromatopsia:__ La Achromatopsia es una enfermedad retiniana hereditaria autos
 
  	principalmente aparecen PDF como resultados y articulos academicos
  
- **¿En qué cambian los resultados de la búsqueda?( "PCR amplification" +temperature, y luego "PCR amplification" -temperature)**
+ **¿En qué cambian los resultados de la búsqueda?**_("PCR amplification" +temperature, y luego "PCR amplification" -temperature)_
  
  	en el caso de "PCR amplification" +temperature, los resultados son mucho menores con respecto a "PCR amplification" -temperature.(9 vs 613000)
  
