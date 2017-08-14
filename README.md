@@ -47,9 +47,9 @@ participa aparte de la ruta olfactory transduction, está presente en la cAMP si
 
 
 
+la conforman 3 dominios: Cellular Component, the parts of a cell or its extracellular environment; Molecular Function, the elemental activities of a gene product at the molecular level, such as binding or catalysis; and Biological Process, operations or sets of molecular events with a defined beginning and end, pertinent to the functioning of integrated living units: cells, tissues, organs, and organisms.
 
-me falta la mitad
-
+entrega información sobre glycolytic process, me entrega informacion detallada sonre este proceso, todas las anotaciones directas e indirectas del proceso glycolitico y todos los genes y productos genicos asociados a este proceso.
 
 
 
