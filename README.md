@@ -115,7 +115,7 @@ NM_204305,
 
 Descarga la secuencia en formato fasta y agrégala a tu informe.
 
-![imagen 2](http://www.ebi.ac.uk/Tools/services/rest/emboss_seqret/result/emboss_seqret-I20170814-013239-0223-50028779-es/out)
+![imagen 2](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/out.txt)
 
 **Parte IV**
 
