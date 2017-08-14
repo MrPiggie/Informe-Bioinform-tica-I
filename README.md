@@ -205,6 +205,10 @@ __Acromatopsia:__ La Achromatopsia es una enfermedad retiniana hereditaria autos
 
 # **Parte IV**
 
+![alerta pubmed ncbi](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/alerta%201.png?raw=true)
+
+![subscripción nature](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/nature.png?raw=true)
+
 **¿Son los resultados idénticos o no?**
 
 	si lo son.
