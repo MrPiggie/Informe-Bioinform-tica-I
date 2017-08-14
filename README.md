@@ -91,8 +91,27 @@ Haz clic en "Graph Views" y examina el gráfico. Anota 10 sub-categorías GO a l
 
 Procesos metabolicos del ATP, procesos metabolicos del piruvato, fosforilación de nucleotidos, catabolismo de organismos unicelulares, rocesos metabolicos de purinas, pirimidinas, nucleosidos trifosfato, coenzima de oxidorreduccion, fosforilación, generación de precursores de metabolitos y energía.
 
+**Parte III:**
+
+¿Cuántos items fueron encontrados? ¿cuántos en animales?
+
 fueron encontrado 86453 archivos, animales 12034.
- 1288 bplongitud pollo,  09-JUL-2017,  NM_204305,  
 
+Probablemente tus resultados fueron una mezcla de fragmentos de genes, regiones codificantes parciales, genes completos, etc. Filtra tus datos por mRNA, animales, RefSeq.
 
+Haz clic en la entrada para la secuencia de GAPDH de gallina. 
+
+¿Cuál es la longitud del gen? 
+
+1288 bplongitud pollo.
+
+¿Cuál es la referencia bibliográfica más reciente? 
+
+09-JUL-2017, 
+
+¿Cuál es el número de acceso?
+
+NM_204305,  
+
+Descarga la secuencia en formato fasta y agrégala a tu informe.
 ![imagen 2](http://www.ebi.ac.uk/Tools/services/rest/emboss_seqret/result/emboss_seqret-I20170814-013239-0223-50028779-es/out)
