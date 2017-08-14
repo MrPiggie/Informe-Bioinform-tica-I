@@ -203,6 +203,30 @@ __Acromatopsia:__ La Achromatopsia es una enfermedad retiniana hereditaria autos
 	options deftype=unord;
 	end;)
 
-**Parte IV**
+# **Parte IV**
+
+**¿Son los resultados idénticos o no?**
+
+	si lo son.
+
+**¿En qué cambiaron los resultados de la búsqueda?**
+
+	Ahora encontró más resultados
+
+**¿Qué encuentras en los resultados? Prueba sin el rango también** _(Prueba con 14 inch...17 inch laptops en google.com)_
+
+	encontró muchos más resultados, incluso más que la sumatoria entre ambos valores por separado.
+
+*Describe tus resultados*(Prueba con "human microbiome" filetype:pdf)
+
+ 	principalmente aparecen PDF como resultados y articulos academicos
+ 
+ **¿En qué cambian los resultados de la búsqueda?( "PCR amplification" +temperature, y luego "PCR amplification" -temperature)**
+ 
+ 	en el caso de "PCR amplification" +temperature, los resultados son mucho menores con respecto a "PCR amplification" -temperature.(9 vs 613000)
+ 
+ **De nuevo, ¿en qué cambian los resultados de la búsqueda?**
+ 
+ 	cambian en la cantidad de resultados encontrados. Soil OR Human pathogens hay un mayor numero que en Soil AND Human pathogens
 
 
