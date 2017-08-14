@@ -30,15 +30,15 @@ __Acromatopsia:__ La Achromatopsia es una enfermedad retiniana hereditaria autos
 	
 **Posiciones de ciertas variantes:**
 
-   	Chr2: 98396796 (on Assembly GRCh38)![](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/1.png?raw=true)
-        Chr2: 99013259 (on Assembly GRCh37)
+![posicion](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/1.png?raw=true)
+
+![posicion 2](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/2.png?raw=true)
+
+![posición 3](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/3.png?raw=true)
+
+   	
                                
-        Chr2: 98377671 (on Assembly GRCh38)[https://www.ncbi.nlm.nih.gov/clinvar/variation/257961/]
-        Chr2: 98994134 (on Assembly GRCh37)
-                                 
-        Chr2: 98370042 (on Assembly GRCh38)[https://www.ncbi.nlm.nih.gov/clinvar/variation/337652/]
-        Chr2: 98986505 (on Assembly GRCh37)
-                                 
+        
 	
  **¿Las sustituciones corresponden a cambios sinónimos o no sinónimos?**
  
