@@ -55,7 +55,7 @@ si tienes, hay 194 ortologos tales como: Mus musculus, Mus caroli, Mus pahari, R
  aparecen 25 paralogos y psudogenes no se han reportado psudogenes.
 
 
-#**Parte II** 
+# **Parte II** 
 
 **Anteriormente encontraste nombres alternativos de tu gen ¿Existen otros reportados por Kegg? ¿Cuáles?**
  
