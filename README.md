@@ -36,9 +36,9 @@ Posiciones de ciertas variantes:
 	
  ¿Las sustituciones corresponden a cambios sinónimos o no sinónimos?
  Tiene de ambos tipos, tanto sinónimas como no sinónimas.
- [https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/sinonima.png] sinonima
+![https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/sinonima.png] sinonima
 
-[https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/no%20sinonima.png] no sinonima
+![https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/no%20sinonima.png] no sinonima
 
 ¿Existen ortólogos de tu gen en otras especies? ¿Cuántos?
 si tienes, hay 194 ortologos tales como: Mus musculus, Mus caroli, Mus pahari, Rattus norvegicus
