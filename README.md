@@ -1,6 +1,6 @@
 # Informe Bioinformática.
 
-__Parte I__ : Enfermedades genénitas y genes.
+# __Parte I__ : Enfermedades genéticas y genes.
  
 __Acromatopsia:__ La Achromatopsia es una enfermedad retiniana hereditaria autosómica recesiva causada por una pérdida completa de la función fotorreceptora del cono __(1)__ . Esta enfermedad está asociada principalmente al gen cyclic nucleotide-gated channel alpha-3 (CNGA3).
  
