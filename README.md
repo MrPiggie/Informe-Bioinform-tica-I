@@ -18,11 +18,11 @@ cyclic nucleotide-gated cation channel alpha-3 family. No tiene número EC, porq
 
 **¿Qué genes están inmediatamente río arriba/abajo?**
 
-VWA3B/SCAR22 se encuentra río arriba, y INPP4A/TVAS1 río abajo.
+	VWA3B/SCAR22 se encuentra río arriba, y INPP4A/TVAS1 río abajo.
 
 **¿Cuál es la longitud de tu gen?**
 
-53000 pb
+	53000 pb
 
 **¿Cuántas variantes de tu gen hay descritas y en qué posiciones?** 
 
