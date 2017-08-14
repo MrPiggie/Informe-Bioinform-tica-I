@@ -57,4 +57,4 @@ fueron encontrado 86453 archivos, animales 12034.
  1288 bplongitud pollo,  09-JUL-2017,  NM_204305,  
 
 
-
+![imagen 2](http://www.ebi.ac.uk/Tools/services/rest/emboss_seqret/result/emboss_seqret-I20170814-013239-0223-50028779-es/out)
