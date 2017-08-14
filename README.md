@@ -206,31 +206,33 @@ __Acromatopsia:__ La Achromatopsia es una enfermedad retiniana hereditaria autos
 # **Parte IV**
 
 ![alerta pubmed ncbi](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/alerta%201.png?raw=true)
+Alerta ncbi Pubmed.
 
 ![subscripción nature](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/nature.png?raw=true)
+Subscripción revista Nature.
 
-**¿Son los resultados idénticos o no?**
+**¿Son los resultados idénticos o no?** _(''Achromatopsia'')_
 
-	si lo son.
+	Son idénticos.
 
-**¿En qué cambiaron los resultados de la búsqueda?**
+**¿En qué cambiaron los resultados de la búsqueda?** _(''Achromatopsia*'')_ 
 
-	Ahora encontró más resultados
+	Ahora encontró más resultados para la búsqueda.
 
 **¿Qué encuentras en los resultados? Prueba sin el rango también** _(Prueba con 14 inch...17 inch laptops en google.com)_
 
-	encontró muchos más resultados, incluso más que la sumatoria entre ambos valores por separado.
+	Encontró muchos más resultados, incluso más que la sumatoria entre ambas búsquedas por separado.
 
 *Describe tus resultados*(Prueba con "human microbiome" filetype:pdf)
 
- 	principalmente aparecen PDF como resultados y articulos academicos
+ 	Aparecen PDFs como resultados principales y artículos académicos relacionados al tema.
  
  **¿En qué cambian los resultados de la búsqueda?**_("PCR amplification" +temperature, y luego "PCR amplification" -temperature)_
  
- 	en el caso de "PCR amplification" +temperature, los resultados son mucho menores con respecto a "PCR amplification" -temperature.(9 vs 613000)
+ 	En el caso de "PCR amplification" +temperature, los resultados son mucho menores con respecto a "PCR amplification" -temperature.(9 vs 613000).
  
  **De nuevo, ¿en qué cambian los resultados de la búsqueda?**
  
- 	cambian en la cantidad de resultados encontrados. Soil OR Human pathogens hay un mayor numero que en Soil AND Human pathogens
+ 	Cambian en la cantidad de resultados encontrados. Soil OR Human pathogens tiene un mayor número de resultados encontrados que al realizar la búsqueda con Soil AND Human pathogens.
 
 
