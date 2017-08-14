@@ -36,11 +36,7 @@ __Acromatopsia:__ La Achromatopsia es una enfermedad retiniana hereditaria autos
 
 ![posición 3](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/3.png?raw=true)
 
-   	
-                               
-        
-	
- **¿Las sustituciones corresponden a cambios sinónimos o no sinónimos?**
+**¿Las sustituciones corresponden a cambios sinónimos o no sinónimos?**
  
  	Tiene de ambos tipos, tanto sinónimas como no sinónimas.
 ![sinónima](https://github.com/MrPiggie/Informe-Bioinform-tica-I/blob/master/sinonima.png?raw=true)
